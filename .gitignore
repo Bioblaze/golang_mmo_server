@@ -1,0 +1,7 @@
+.container-*
+.dockerfile-*
+.go-*
+.push-*
+
+.go/
+bin/
